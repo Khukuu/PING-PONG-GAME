@@ -1,5 +1,4 @@
 from turtle import Turtle
-import time
 class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
