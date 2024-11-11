@@ -5,9 +5,6 @@ import time
 from scoreboard import Scoreboard
 screen = Screen()
 
-
-
-
 #checklist
 #create the screen
 screen.setup(width = 800, height = 600)
